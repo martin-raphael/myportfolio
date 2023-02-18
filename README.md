@@ -16,8 +16,9 @@ https://gitconnected.com/v1/portfolio/<YOUR_USERNAME>
 
 ## Instructions
 ```
-git clone git@github.com:treyhuffine/portfolio-create-react-app.git
-cd portfolio-create-react-app
+git clone https://github.com/martin-raphael/myportfolio.git
+
+cd myportfolio-create-react-app
 yarn install
 yarn start
 ```
